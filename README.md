@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Frontend/DSA
 - 💞️ I’m looking to collaborate on Future Projects!
 - 📫 How to reach me LinkedIn (Spandan Mishra)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 Spandan-Mishra/Spandan-Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spandan-Mishra
 - 👀 I’m interested in Everything related to Programming
-- 🌱 I’m currently learning Frontend/DSA
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Future Projects!
 - 📫 How to reach me LinkedIn (Spandan Mishra)
 
